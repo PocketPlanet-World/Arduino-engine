@@ -4,12 +4,12 @@
 
 <img id="icon" src="https://firebasestorage.googleapis.com/v0/b/pocketplanet.appspot.com/o/icon%2Fzh.png?alt=media&token=bec9476b-ffe7-443e-ac22-7b944c69f0ce" alt="PocketPlanet icon" />
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PocketPlanet-World/RaspberryPi-engine?style=for-the-badge&labelColor=21592d&color=183d20) ![GitHub Org's stars](https://img.shields.io/github/stars/PocketPlanet-World?style=for-the-badge&logo=Trustpilot&logoColor=white&labelColor=21592d&color=183d20)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PocketPlanet-World/Arduino-engine?style=for-the-badge&labelColor=21592d&color=183d20) ![GitHub Org's stars](https://img.shields.io/github/stars/PocketPlanet-World?style=for-the-badge&logo=Trustpilot&logoColor=white&labelColor=21592d&color=183d20)
 
 基於溫室數據監控為主，
 並以即時更新數據為核心的開源儲存庫。
 
-這裡存放著運行在 Arduino UnO 上的程式，
+這裡存放著運行在 Arduino Uno 上的程式，
 以及我們正在測試的功能。
 
 ---
